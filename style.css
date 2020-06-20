@@ -1,0 +1,182 @@
+
+
+
+h1
+{
+     font-size: 8vw;
+    font-family: Freestyle Script;
+    text-shadow: 4px 4px 4px white;
+    color: black;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: -10vw;
+    float: left;
+    display: inline-block;
+   
+}
+
+
+
+body{
+    
+     background-image: url(images/hd%20cartoon%20house%202.jpg);
+    background-position: center center;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+        background-size: cover;
+   
+    
+    }
+
+
+img {
+  
+  margin-left: auto;
+  margin-right: auto;
+    margin-top: 0px;
+}
+
+.logo{
+ margin-left: auto;
+  margin-right: auto;
+    text-align: center;
+    margin-top: -9vw;
+    
+}
+
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+    
+}
+
+
+marquee {
+    
+    margin-top: -10000vw;
+    
+    font-size: 3vw;
+    z-index: 1;
+   background-color: #996633;
+    padding-top: 3vw;
+    padding-bottom: 3.5vw;
+        
+  
+}
+
+
+.ranking {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10vw;
+    background-color:  #996633;
+    padding-bottom: 30vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    
+}
+
+
+.name1 {
+   margin-top: -24vw;
+    margin-left: 4vw;
+    font-family:Freestyle Script;
+    font-size: 2vw;
+    color: black;
+    
+}
+
+
+.name2 {
+  margin-right: 11vw;
+    margin-top: -2vw;
+    font-family:Freestyle Script;
+    font-size: 2vw;
+    color: black;
+    
+}
+    
+
+.name3 {
+    
+    margin-left: 18vw;
+    margin-top: -2vw;
+    font-family:Freestyle Script;
+    font-size: 2vw;
+    color: black;
+ 
+}
+
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+    text-shadow: 1px 1px black;
+    font-size: 1vw;
+    margin-top: -15vw;
+    
+}
+
+.centered {
+  position: absolute;
+  top: 88%;
+  left: 0%;
+     right:-100%;
+  
+ 
+  transform: translate(-50%, -50%);
+    
+}
+
+
+.message {
+    margin-top: 40vw;
+    font-size: 1vw;
+    background-color: black;
+    color: white;
+   
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    text-align: center;
+}
+
+.contact {
+    font-size: 0.6vw;
+    color: white;
+    margin-top: -7vw;
+    margin-left: 1vw;
+}
+
+
+.score1 {
+    margin-top: 17vw;
+    margin-left: 3.3vw;
+    font-family:Freestyle Script;
+    font-size: 2vw;
+}
+
+
+.score2 {
+    margin-top: -2.5vw;
+    margin-right: 22vw;
+    font-family:Freestyle Script;
+    font-size: 2vw;
+}
+
+
+.score3 {
+    margin-left: 28vw;
+    margin-top: -2.3vw;
+    font-family:Freestyle Script;
+    font-size: 2vw;
+    
+}
+
+
+  @media screen and (max-width: 600px) {
+
+}
